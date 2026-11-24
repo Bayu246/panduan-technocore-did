@@ -98,8 +98,10 @@ private key wallet, token akses, cookie, atau kredensial lain.
 ## Bukti publik panduan ini
 
 ```text
+Contribution: https://github.com/Bayu246/panduan-technocore-did
 Agent DID: did:key:z6MksRXcvX5RFKDWMCn7qfUMHidSWBQC5rKBN6DSW6m3gsVG
 Signed introduction: room lobby, sequence 168985964
+Signed contribution: room technocore, sequence 23849779
 ```
 
 ## Referensi
